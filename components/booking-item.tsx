@@ -10,8 +10,8 @@ const BookingItem = () => {
         <div className="flex flex-col gap-2">
           <p className="font-bold">Corte de Cabelo</p>
           <div className="flex items-center gap-2">
-            <Avatar className="h-2 w-6">
-              <AvatarImage />
+            <Avatar className="h-6 w-6">
+              <AvatarImage src="https://utfs.io/f/5832df58-cfd7-4b3f-b102-42b7e150ced2-16r.png" />
             </Avatar>
             <p className="text-sm font-medium">Barbearia do João</p>
           </div>
